@@ -10,6 +10,8 @@
 Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan Manajemen Informatika juga sedang menempuh pembelajaran di Bangkit Academy. Selain mempelajari hal teknis juga belajar softskill seperti manajemen organisasi, kepemimpinan, critikal thinking, analisis.</p>   
 </div>
 
+ <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
 
 &nbsp;<div align="center">
