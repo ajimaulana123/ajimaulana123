@@ -1,10 +1,10 @@
 <div align="center">
-   <h1>Hallo disana disini dimoewana pun berada, Saya <a href="https://hemant.codes">Aji Maulana</a> aya adalah seorang yang sedang belajar menjadi seorang web developer, cloud dev juga bakal calon ML engineer yang bersemangat . Saat ini, saya berfokus untuk memahami dan mengembangkan keterampilan dalam pengembangan Model ML. Saya memiliki keinginan untuk menjadi seorang profesional dalam membangun karir yang sukses di bidang pengembangan web, coloud dan model ML.
+   <h1>Hallo disana disini dimoewana pun berada, Saya <a href="https://hemant.codes">Aji Maulana</a> 
+
+   <p>saya adalah seorang yang sedang belajar menjadi seorang web developer, cloud dev juga bakal calon ML engineer yang bersemangat . Saat ini, saya berfokus untuk memahami dan mengembangkan keterampilan dalam pengembangan Model ML. Saya memiliki keinginan untuk menjadi seorang profesional dalam membangun karir yang sukses di bidang pengembangan web, coloud dan model ML.
 
 
-Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan Manajemen Informatika juga sedang menempuh pembelajaran di Bangkit Academy. Selain mempelajari hal teknis juga belajar softskill seperti manajemen organisasi, kepemimpinan, critikal thinking, analisis.
-
-
+Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan Manajemen Informatika juga sedang menempuh pembelajaran di Bangkit Academy. Selain mempelajari hal teknis juga belajar softskill seperti manajemen organisasi, kepemimpinan, critikal thinking, analisis.</p>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
