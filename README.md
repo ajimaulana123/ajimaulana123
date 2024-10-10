@@ -10,7 +10,7 @@
 Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan Manajemen Informatika juga sedang menempuh pembelajaran di Bangkit Academy. Selain mempelajari hal teknis juga belajar softskill seperti manajemen organisasi, kepemimpinan, critikal thinking, analisis.</p>   
 </div>
 
- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" Tools...
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"> Tools...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
