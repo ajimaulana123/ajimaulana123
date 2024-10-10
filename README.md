@@ -10,8 +10,6 @@
 Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan Manajemen Informatika juga sedang menempuh pembelajaran di Bangkit Academy. Selain mempelajari hal teknis juga belajar softskill seperti manajemen organisasi, kepemimpinan, critikal thinking, analisis.</p>   
 </div>
 
-[⏩ &nbsp; and many more](https://github.com/gautamkrishnar?tab=repositories&q=&type=source&language=&sort=stargazers) 
-
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
