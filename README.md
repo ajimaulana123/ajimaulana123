@@ -32,7 +32,7 @@ Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan Manajemen I
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<p>
+<p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -52,3 +52,4 @@ Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan Manajemen I
 - https://github.com/mayhemantt/mayhemantt
 - https://github.com/Thaiane/
 - https://github.com/novatorem
+- https://github.com/thmsgbrt
