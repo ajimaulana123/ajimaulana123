@@ -5,7 +5,7 @@
       <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
    </h1>
 
-   <p>saya adalah seorang yang sedang belajar menjadi seorang web developer, cloud dev juga bakal calon ML engineer yang bersemangat . Saat ini, saya berfokus untuk memahami dan mengembangkan keterampilan dalam pengembangan Model ML. Saya memiliki keinginan untuk menjadi seorang profesional dalam membangun karir yang sukses di bidang pengembangan web, coloud dan model ML.
+   <p>saya adalah seorang yang sedang belajar menjadi seorang ML engineer. Saat ini, saya berfokus untuk memahami dan mengembangkan keterampilan dalam pengembangan Model ML dan memiliki keinginan untuk menjadi seorang profesional dalam membangun karir yang sukses di bidang ML.
 
 
 Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan Manajemen Informatika juga sedang menempuh pembelajaran di Bangkit Academy. Selain mempelajari hal teknis juga belajar softskill seperti manajemen organisasi, kepemimpinan, critikal thinking, analisis.</p>   
