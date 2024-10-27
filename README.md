@@ -48,3 +48,4 @@ Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan Manajemen I
 - https://github.com/Mokkapps
 - https://github.com/gautamkrishnar
 - https://github.com/zumrudu-anka/
+- https://github.com/ajimaulana123/Cool-GIFs-For-GitHub?tab=readme-ov-file
