@@ -2,7 +2,7 @@
    <h1>
       Hallowww..., Saya 
       <a href="https://hemant.codes">Aji Maulana </a> 
-      <img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" width="60">
+      <img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" width="100">
    </h1>
 </div>
 
