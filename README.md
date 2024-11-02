@@ -8,10 +8,10 @@
    </h1>
 </div>
 
- <p>saya adalah seorang yang sedang belajar menjadi seorang ML engineer. Saat ini, saya berfokus untuk memahami dan mengembangkan keterampilan dalam pengembangan Model ML dan memiliki keinginan untuk menjadi seorang profesional dalam membangun karir yang sukses di bidang ML.
+ <p>saya adalah seorang yang sedang belajar menjadi seorang <h1>ML engineer</h1>. Saat ini, saya berfokus untuk memahami dan mengembangkan keterampilan dalam pengembangan Model ML dan memiliki keinginan untuk menjadi seorang profesional dalam membangun karir yang sukses di bidang ML.
 
 
-Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan Manajemen Informatika juga sedang menempuh pembelajaran di Bangkit Academy. Selain mempelajari hal teknis juga belajar softskill seperti manajemen organisasi, kepemimpinan, critikal thinking, analisis.</p>   
+Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan <h1>Manajemen Informatika</h1> juga sedang menempuh pembelajaran di <h1>Bangkit Academy</h1>. Selain mempelajari hal teknis juga belajar softskill seperti manajemen organisasi, kepemimpinan, critikal thinking, analisis.</p>   
 
 ## Quote
 
