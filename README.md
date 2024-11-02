@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%">
 <div align="center">
    <h1>
+      <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="100">
       Hallowww..., Saya 
       <a href="https://hemant.codes">Aji Maulana </a> 
       <img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" width="100">
