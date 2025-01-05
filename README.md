@@ -41,6 +41,10 @@ Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan <span style
    <img src="https://skillicons.dev/icons?i=tensorflow" width="100"/>
    <img src="https://skillicons.dev/icons?i=laravel" width="100"/>
    <img src="https://skillicons.dev/icons?i=nextjs" width="100"/>
+   <img src="https://skillicons.dev/icons?i=expressjs" width="100"/>
+   <img src="https://skillicons.dev/icons?i=mysql" width="100"/>
+   <img src="https://skillicons.dev/icons?i=mongodb" width="100"/>
+   <img src="https://skillicons.dev/icons?i=docker" width="100"/>
 </p>
 
 #### Referensi prfile
