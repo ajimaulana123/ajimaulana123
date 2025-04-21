@@ -40,6 +40,8 @@ Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan <span style
    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
    <img src="https://skillicons.dev/icons?i=tensorflow" width="100"/>
    <img src="https://skillicons.dev/icons?i=nextjs" width="100"/>
+    <img src="https://skillicons.dev/icons?i=laravel" width="100"/>
+    <img src="https://skillicons.dev/icons?i=postgres" width="100"/>
    <img src="https://skillicons.dev/icons?i=mysql" width="100"/>
    <img src="https://skillicons.dev/icons?i=mongodb" width="100"/>
    <img src="https://skillicons.dev/icons?i=docker" width="100"/>
