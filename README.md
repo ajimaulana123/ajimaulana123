@@ -8,10 +8,33 @@
    </h1>
 </div>
 
- <p>saya adalah seorang yang sedang belajar menjadi seorang <span style="font-size: 100px;">ML engineer dan Fullstack Web Developer</span>. Saat ini, saya berfokus untuk memahami dan mengembangkan keterampilan dalam pengembangan Model ML dan Web Apps. Memiliki keinginan untuk menjadi seorang profesional dalam membangun karir yang sukses di bidang ML dan Fullstack Web.
+ <p>
+  <strong>Fullstack Web Developer</strong> dengan pengalaman kurang dari satu tahun dalam membangun 
+  <mark>website akreditasi</mark>, <mark>sistem informasi manajemen (SIM)</mark>, 
+  <mark>sistem manajemen HRD</mark>, <mark>company profile</mark>, dan 
+  <mark>website kustom</mark> untuk klien freelance menggunakan 
+  <strong>React.js</strong>, <strong>Express.js</strong>, <strong>Next.js</strong>, 
+  <strong>Laravel</strong>, dan teknologi modern lainnya. 
+</p>
 
+<p>
+  Berpengalaman sebagai cohort <strong>Cloud Computing</strong> dan 
+  <strong>Machine Learning</strong> di <mark>Bangkit Academy</mark>, dengan keahlian dalam pengembangan 
+  model machine learning menggunakan <strong>TensorFlow</strong> serta deployment aplikasi di 
+  <strong>Google Cloud Platform (GCP)</strong> melalui <strong>Cloud Run</strong>.
+</p>
 
-Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan <span style="font-size: 100px;">Manajemen Informatika</span> juga sedang menempuh pembelajaran di <span style="font-size: 100px;">Bangkit Academy</span>. Selain mempelajari hal teknis juga belajar softskill seperti manajemen organisasi, kepemimpinan, critikal thinking, analisis.</p>   
+<p>
+  Berhasil mengimplementasikan otomasi workflow menggunakan <strong>n8n</strong> untuk klien freelance, 
+  meningkatkan efisiensi pembuatan konten dan integrasi sistem.
+</p>
+
+<p>
+  <em>Berkomitmen untuk terus mengasah keterampilan di bidang 
+  <strong>Web Development</strong>, <strong>Machine Learning</strong>, 
+  dan <strong>Google Cloud Platform</strong>.</em>
+</p>
+
 
 ## Quote
 
@@ -37,11 +60,12 @@ Saat ini, saya kuliah di Politeknik Pratama Mulia Surakarta, jurusan <span style
 
 <p>
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg"/>
    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
    <img src="https://skillicons.dev/icons?i=tensorflow" width="100"/>
    <img src="https://skillicons.dev/icons?i=nextjs" width="100"/>
-    <img src="https://skillicons.dev/icons?i=laravel" width="100"/>
-    <img src="https://skillicons.dev/icons?i=postgres" width="100"/>
+   <img src="https://skillicons.dev/icons?i=laravel" width="100"/>
+   <img src="https://skillicons.dev/icons?i=postgres" width="100"/>
    <img src="https://skillicons.dev/icons?i=mysql" width="100"/>
    <img src="https://skillicons.dev/icons?i=mongodb" width="100"/>
    <img src="https://skillicons.dev/icons?i=docker" width="100"/>
