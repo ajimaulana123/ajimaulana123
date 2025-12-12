@@ -8,33 +8,21 @@
    </h1>
 </div>
 
- <p>
-  <strong>Fullstack Web Developer</strong> dengan pengalaman kurang dari satu tahun dalam membangun 
-  <mark>website akreditasi</mark>, <mark>sistem informasi manajemen (SIM)</mark>, 
-  <mark>sistem manajemen HRD</mark>, <mark>company profile</mark>, dan 
-  <mark>website kustom</mark> untuk klien freelance menggunakan 
-  <strong>React.js</strong>, <strong>Express.js</strong>, <strong>Next.js</strong>, 
-  <strong>Laravel</strong>, dan teknologi modern lainnya. 
+<p>
+Seorang <strong>Fullstack Web Developer</strong> dan <strong>Automation Engineer</strong> dengan pengalaman lebih dari <strong>1 tahun menggunakan Next.js</strong> serta lebih dari <strong>5 bulan membangun workflow otomatisasi menggunakan n8n</strong>. Telah menyelesaikan <strong>10+ proyek</strong> yang meliputi <strong>pengembangan web</strong>, <strong>integrasi API</strong>, dan <strong>sistem automasi</strong>.
 </p>
 
 <p>
-  Berpengalaman sebagai cohort <strong>Cloud Computing</strong> dan 
-  <strong>Machine Learning</strong> di <mark>Bangkit Academy</mark>, dengan keahlian dalam pengembangan 
-  model machine learning menggunakan <strong>TensorFlow</strong> serta deployment aplikasi di 
-  <strong>Google Cloud Platform (GCP)</strong> melalui <strong>Cloud Run</strong>.
+Pernah magang sebagai <strong>Fullstack Web Developer Intern</strong> di <strong>PT Prima Paper Indonesia</strong>, serta memiliki pengalaman kerja tambahan di <strong>Politeknik Pratama Mulia Surakarta</strong>. Juga telah menangani berbagai <strong>proyek freelance</strong>.
 </p>
 
 <p>
-  Berhasil mengimplementasikan otomasi workflow menggunakan <strong>n8n</strong> untuk klien freelance, 
-  meningkatkan efisiensi pembuatan konten dan integrasi sistem.
+Lulusan <strong>Bangkit Academy Machine Learning Track</strong>, dengan proyek capstone yang meraih <strong>peringkat 50 dari 300 peserta</strong>, menggunakan <strong>Python</strong>, <strong>TensorFlow</strong>, <strong>scikit-learn</strong>, dan berbagai library pemrosesan data.
 </p>
 
 <p>
-  <em>Berkomitmen untuk terus mengasah keterampilan di bidang 
-  <strong>Web Development</strong>, <strong>Machine Learning</strong>, 
-  dan <strong>Google Cloud Platform</strong>.</em>
+Berpengalaman dalam mengembangkan <strong>model machine learning untuk deteksi hoaks</strong> di dunia nyata. Dengan kombinasi keahlian di <strong>Next.js</strong>, <strong>n8n</strong>, dan <strong>machine learning</strong>, dikenal sebagai <strong>pembelajar cepat</strong> yang mampu membangun solusi digital yang <strong>efisien</strong>, <strong>skalabel</strong>, dan <strong>berdampak</strong>.
 </p>
-
 
 ## Quote
 
